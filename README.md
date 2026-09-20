@@ -9,6 +9,6 @@ professional intensive, 35 production days, August–September 2026.
 | I — Fundamentals of Baking | [PDF](SFBI-Series-1-Fundamentals-of-Baking.pdf) | 14 Aug 2026 |
 | II — Sourdough, Whole & Alternative Grains | [PDF](SFBI-Series-2-Sourdough-Whole-and-Alternative-Grains.pdf) | 28 Aug 2026 |
 | III — Viennoiserie | [PDF](SFBI-Series-3-Viennoiserie.pdf) | 11 Sep 2026 |
-| IV — Bakery Business Essentials & Capstone | *in progress* | 18 Sep 2026 |
+| IV — Bakery Business Essentials & Capstone | [PDF](SFBI-Series-4-Bakery-Business-Essentials.pdf) | 18 Sep 2026 |
 
-[All three in one PDF](SFBI-All-Certificates.pdf)
+[All four in one PDF](SFBI-All-Certificates.pdf)
